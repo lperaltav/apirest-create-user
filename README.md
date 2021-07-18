@@ -25,3 +25,9 @@ host jdbc jdbc:h2:file:~/lorena2
 ![image](https://user-images.githubusercontent.com/23701946/126078202-875c9629-e5ab-40aa-90fd-a25dd1f86d64.png)
 
 ![image](https://user-images.githubusercontent.com/23701946/126078236-7f9d895e-f566-44b6-b832-992d9fa8b1ab.png)
+
+
+In postman example
+
+![image](https://user-images.githubusercontent.com/23701946/126078533-106063e3-ac6c-447f-ae15-77593ec5d342.png)
+
