@@ -18,6 +18,11 @@
 # Log file
 *.log
 
+.idea/*
+*.iml
+build/*
+.gradle/*
+
 # BlueJ files
 *.ctxt
 
